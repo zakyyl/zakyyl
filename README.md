@@ -1,0 +1,116 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20there,%20I'm%20Zaky!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Programmer%20%7C%20Full-stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=a0a0c0" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Flutter;Exploring+AI+Agentic+%26+Medical+Imaging;Building+complex+systems+that+matter.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+🏥  Specialized in complex web systems (Hospital Operations, Management Systems)
+🤖  Exploring AI Agentic technology & integration
+🩻  Interested in Medical Imaging integration (Orthanc / DICOM)
+📱  Building cross-platform mobile apps with Flutter
+🌱  Always learning, always building.
+```
+
+> *"Code is not just instructions for machines — it's a solution crafted for people."*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+#### 🚀 Frameworks & Languages
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ☁️ Infrastructure & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![aaPanel](https://img.shields.io/badge/aaPanel-%2300BFA5.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🔌 Networking
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+#### 🧠 Areas of Exploration
+![AI Agentic](https://img.shields.io/badge/AI%20Agentic-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![DICOM](https://img.shields.io/badge/DICOM%20%2F%20Orthanc-0077B5?style=for-the-badge&logo=blueprint&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/zakyyl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakyyl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakyyl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&text_color=c9d1d9"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/zakyyl">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakyyl&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B68EE&ring=7B68EE&fire=FF6584&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zakyyl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Zaky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakyyl&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakyyl)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=zakyyl&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
