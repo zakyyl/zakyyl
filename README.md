@@ -73,18 +73,6 @@
 
 ---
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Zaky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakyyl&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -98,8 +86,6 @@
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=zakyyl&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
