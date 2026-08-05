@@ -1,24 +1,9 @@
 <div align="center">
 
-
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Flutter;Exploring+AI+Agentic+%26+Medical+Imaging;Building+complex+systems+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Halo,+Saya+Zaky!;+%26+>_<!)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```text
-🏥  Specialized in complex web systems (Hospital Operations, Management Systems)
-🤖  Exploring AI Agentic technology & integration
-🩻  Interested in Medical Imaging integration (Orthanc / DICOM)
-📱  Building cross-platform mobile apps with Flutter
-🌱  Always learning, always building.
-```
-
-> *"Code is not just instructions for machines — it's a solution crafted for people."*
 
 ---
 
@@ -47,10 +32,6 @@
 
 #### 🔌 Networking
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-
-#### 🧠 Areas of Exploration
-![AI Agentic](https://img.shields.io/badge/AI%20Agentic-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM%20%2F%20Orthanc-0077B5?style=for-the-badge&logo=blueprint&logoColor=white)
 
 ---
 
