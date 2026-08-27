@@ -5,25 +5,6 @@
 </div>
 
 
-## Stats
-
-<div align="center">
-
-<a href="https://github.com/zakyyl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakyyl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakyyl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&text_color=c9d1d9"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/zakyyl">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakyyl&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B68EE&ring=7B68EE&fire=FF6584&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
