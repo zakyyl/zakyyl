@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Zaky</h1>
-  <p><b>IT Programmer | Fullstack Web & Mobile Developer</b></p>
+  <p><b>Software Engineer</b></p>
   
   <p>Building scalable applications with a focus on operational efficiency and modern architectures.</p>
 
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ### Featured Focus
