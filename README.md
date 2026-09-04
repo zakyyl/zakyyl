@@ -1,14 +1,37 @@
 <div align="center">
+  <h1>Hi, I'm Zaky</h1>
+  <p><b>IT Programmer | Fullstack Web & Mobile Developer</b></p>
+  
+  <p>Building scalable applications with a focus on operational efficiency and modern architectures.</p>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Halo,+Saya+Zaky!;%3E_%3C)](https://git.io/typing-svg)
+  <a href="https://www.linkedin.com/in/zaky-ramadhakara">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
+<br>
 
+###  About Me
+- 🔭 Experienced in developing complex systems, including **hospital operational applications** and integrating **medical imaging tech** (Orthanc/DICOM).
+- 💻 Building functional and responsive user interfaces with **React.js**, **Next.js**, and **Flutter**.
+- ⚙️ Architecting robust backends and APIs primarily using **Laravel**.
+- 💡 Exploring modern workflows, including **AI-driven development** and automated deployments (Vercel, Hostinger, aaPanel).
+- 🌱 Always open to discussing system architecture, infrastructure, or exciting new tech opportunities.
+
+###  Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+### Featured Focus
+> Transforming complex operational needs into streamlined digital solutions. From managing end-to-end medical data workflows to deploying community-focused applications, I enjoy building tools that solve real problems.
+
+<br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zaky-ramadhakara)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=zakyyl&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" alt="GitHub Stats" />
 </div>
-
