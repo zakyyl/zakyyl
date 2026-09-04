@@ -28,8 +28,4 @@
 ### Featured Focus
 > Transforming complex operational needs into streamlined digital solutions. From managing end-to-end medical data workflows to deploying community-focused applications, I enjoy building tools that solve real problems.
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakyyl&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" alt="GitHub Stats" />
 </div>
