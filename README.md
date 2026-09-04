@@ -12,7 +12,6 @@
 <br>
 
 ###  About Me
-- 🔭 Experienced in developing complex systems, including **hospital operational applications** and integrating **medical imaging tech** (Orthanc/DICOM).
 - 💻 Building functional and responsive user interfaces with **React.js**, **Next.js**, and **Flutter**.
 - ⚙️ Architecting robust backends and APIs primarily using **Laravel**.
 - 💡 Exploring modern workflows, including **AI-driven development** and automated deployments (Vercel, Hostinger, aaPanel).
