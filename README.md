@@ -12,10 +12,10 @@
 <br>
 
 ###  About Me
-- 💻 Building functional and responsive user interfaces with **React.js**, **Next.js**, and **Flutter**.
-- ⚙️ Architecting robust backends and APIs primarily using **Laravel**.
-- 💡 Exploring modern workflows, including **AI-driven development** and automated deployments (Vercel, Hostinger, aaPanel).
-- 🌱 Always open to discussing system architecture, infrastructure, or exciting new tech opportunities.
+- Building functional and responsive user interfaces with **React.js**, **Next.js**, and **Flutter**.
+- Architecting robust backends and APIs primarily using **Laravel**.
+- Exploring modern workflows, including **AI-driven development** and automated deployments (Vercel, Hostinger, aaPanel).
+- Always open to discussing system architecture, infrastructure, or exciting new tech opportunities.
 
 ###  Tech Stack
 <div align="left">
