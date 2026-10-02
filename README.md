@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Zaky</h1>
+  <h1>I'm Zaky</h1>
   <p><b>Software Engineer</b></p>
   
   <p>Building scalable applications with a focus on operational efficiency and modern architectures.</p>
