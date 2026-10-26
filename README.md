@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>I'm Zaky</h1>
-  <p><b>Software Engineer</b></p>
+  <h1>Hey, I'm Zaky 👋</h1>
+  <p><b>Software Engineer & Tech Enthusiast</b></p>
   
-  <p>Building scalable applications with a focus on operational efficiency and modern architectures.</p>
+   <p>Turning ideas and complex problems into clean, working code.</p>
 
   <a href="https://www.linkedin.com/in/zaky-ramadhakara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -11,13 +11,13 @@
 
 <br>
 
-###  About Me
-- Building functional and responsive user interfaces with **React.js**, **Next.js**, and **Flutter**.
-- Architecting robust backends and APIs primarily using **Laravel**.
-- Exploring modern workflows, including **AI-driven development** and automated deployments (Vercel, Hostinger, aaPanel).
-- Always open to discussing system architecture, infrastructure, or exciting new tech opportunities.
+### 🚀 About Me
+- **Frontend & Mobile:** Suka ngulik tampilan antarmuka yang responsif dan nyaman dipakai pakai **React.js**, **Next.js**, dan **Flutter**.
+- **Backend:** Ngerancang API dan backend yang solid dan handal, mainly pakai **Laravel**.
+- **Modern Dev Workflow:** Lagi asyik eksplor **AI-driven development** dan urusan deployment pakai **Vercel**, **Hostinger**, sampai **aaPanel**.
+- Selalu open buat *tech talk*, ngobrolin arsitektur sistem, atau sekadar diskusi ide-ide proyek baru yang seru!
 
-###  Tech Stack
+### 🛠️ Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -25,7 +25,5 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
-### Featured Focus
-> Transforming complex operational needs into streamlined digital solutions. From managing end-to-end medical data workflows to deploying community-focused applications, I enjoy building tools that solve real problems.
-
-</div>
+### 💡 What I Do Best
+> *Nge-transform kebutuhan operasional yang ribet jadi solusi digital yang simpel, rapi, dan *impactful*.* Dari ngurus sistem internal rumah sakit sampai ngebangun aplikasi layanan, *I just love building tools that actually solve real problems.*
